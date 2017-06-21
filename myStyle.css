@@ -12,12 +12,12 @@ h1 {
 	background-attachment: fixed;
 }
 
-li {
+#Home, #Projects {
 	display: inline-block;
 	padding: 0 30px;
 }
 
-ul {
+.TopNavigation {
 	text-align: center;
 }
 
@@ -51,5 +51,5 @@ ul {
 }
 
 #version {
-	margin-left: 32px;
+	margin-left: 40px;
 }
